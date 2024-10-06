@@ -2,9 +2,7 @@
 
 ## Overview
 
-**Bash Automation** This repository aims to simplify my repetitive tasks, enhance productivity, and ensure consistent results across different projects I'm working on.
-
-These scripts help streamline my day to day processes.
+**Bash Automation** This repository aims to simplify my repetitive tasks, enhance productivity, and ensure consistent results across different projects I'm working on -- to help streamline my day to day processes.
 
 ## Features
 
