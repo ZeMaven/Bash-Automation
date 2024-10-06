@@ -41,5 +41,5 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/bash-automation.git
+   git https://github.com/ZeMaven/Bash-Automation.git
    cd bash-automation
